@@ -1,4 +1,11 @@
 # QUIZ APPLICATION
+
+
+
+https://github.com/abhineetraj1/oasis-infotech/assets/82033840/4c43cc70-8181-461a-86d9-9f89ce40d544
+
+
+
 Here you can provide the users with Quiz on various general knowledge topics. These practices will ensure that youre able to set the layouts properly and slowly increase your pace of learning the Android application development. In this youll learn to use various Layout components at the same time understanding them better.
 In the app, questions would be asked and answers would be shown as multiple choices. The user selects the answer and gets shown on the screen
 if the answers are correct. In the end the final marks would be shown to the users.
