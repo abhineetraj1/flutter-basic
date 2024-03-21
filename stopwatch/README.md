@@ -1,4 +1,9 @@
 # STOP WATCH
+
+
+https://github.com/abhineetraj1/oasis-infotech/assets/82033840/d8715336-1689-4f1c-bbba-0c2337c2f9b3
+
+
 A stopwatch is another simple android project idea that will work the same as a normal handheld timepiece that measures the time elapsed between its activation and deactivation. This application will have three buttons that are: start, stop, and hold.
 
 ## Installation
